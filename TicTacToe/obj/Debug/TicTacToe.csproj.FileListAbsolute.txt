@@ -1,7 +1,8 @@
-C:\Users\FLO\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
 C:\Users\FLO\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\FLO\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
 C:\Users\FLO\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
 C:\Users\FLO\source\repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
 C:\Users\FLO\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
 C:\Users\FLO\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\FLO\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\FLO\source\repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache

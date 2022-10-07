@@ -30,7 +30,7 @@ namespace sorflorent
             {
                 while (locations.Any())
                 {
-                    Console.WriteLine("[Joueur] Choisir un emplacement : ");
+                    Console.WriteLine("[Joueur] Choisir un emplacement (exemple A1, A3, C3 ... max -> A à C, 1 à 3) : ");
                     choice = Console.ReadLine();
 
                     if (locations.Contains(choice))
